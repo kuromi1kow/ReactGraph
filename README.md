@@ -14,4 +14,4 @@ Work with the help framework ReactJS and library EChart
 
 ![image](https://github.com/kuromi1kow/ReactGraph/assets/112749419/b6bf0a65-3bbf-446a-aad0-c33f81d52842)
 also we have horizontally select:
-![image](https://github.com/kuromi1kow/ReactGraph/assets/112749419/529280e3-cbe7-479e-8bab-fb9ffcab43fd)
+![image](https://github.com/kuromi1kow/ReactGraph/assets/112749419/0f3b9fc1-4755-4308-984d-81ba28cc9a7e)
