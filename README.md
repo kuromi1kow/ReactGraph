@@ -15,3 +15,4 @@ Work with the help framework ReactJS and library EChart
 ![image](https://github.com/kuromi1kow/ReactGraph/assets/112749419/b6bf0a65-3bbf-446a-aad0-c33f81d52842)
 also we have horizontally select:
 ![image](https://github.com/kuromi1kow/ReactGraph/assets/112749419/2909eb2a-ae47-4bb4-abf2-6217e10729fc)
+After update this code with axios
